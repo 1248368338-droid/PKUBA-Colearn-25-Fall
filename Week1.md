@@ -2,7 +2,7 @@
 
 ## 目标
 
-通过编写智能合约与靶子合约交互，获取 Flag 并触发 `ProblemSolved` 事件。
+通过编写智能合约与靶子合约交互，获取 Flag 并触发 `ChallengeCompleted` 事件。
 
 ## 靶子合约信息
 
