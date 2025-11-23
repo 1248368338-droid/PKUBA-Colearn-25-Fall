@@ -1,25 +1,29 @@
 ---
 timezone: UTC+8
 ---
+
 > 请在上边的 timezone 添加你的当地时区(UTC)，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
+
 
 # 你的名字
 
 1. 自我介绍
-   大家好我是 Cauchy, 对 DeFi 非常感兴趣
-2. 你要参加的小组
-   DeFi
-3. 你认为你会坚持完成本次共学吗？
-   一定会
+   - 大家好，我是25级汇丰数量与金融科技专业的欧阳宏禹
+2. 你认为你会完成这次共学小组吗？
+   - 当然
+3. 你感兴趣的小组
+   - Onchain-data
 4. 你的联系方式（Wechat or Telegram）
-   @qingoba
-
+   - Wechat：DLXNH9A4G5VV
+   - Tg：https://t.me/Jiaosifang
 ## Notes
 
 <!-- Content_START -->
 
-### 2025.11.17
+### 2025.07.11
 
-更新了 Week1 的两个任务：部署一个智能合约 & 编写一个智能合约。
+笔记内容
+
+### 2025.07.12
 
 <!-- Content_END -->
